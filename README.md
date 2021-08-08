@@ -5,7 +5,7 @@ You can upload files that contains reports,sheets or any thing for higher manage
 You can calculte salary for an employee based on days attended. 
 If you are an employee you can display your information and edit them.
 The project is required at the end of our python stack in coding dojo software development bootcamp 2021.
-It's made by Spoiled team.
+It's made by Spoiled Coders team.
 Members are : 
 Amani Taha Elhussien ,
 Maram Alqahtani ,
